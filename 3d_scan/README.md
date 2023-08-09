@@ -69,3 +69,5 @@ create_packer - инициализирует Packer, создает атрибу
 create_painter - инициализируе Painter, создает атрибут painter
 
 create_model - создает 3d модель укладки. Добавляет атрибуты packedBoxesInfo и unpacked_cargos_info для выходного файла
+
+create_output_json - создает json файл, в котором содержится информация по укладке коробок и координаты и размеры для отрисовки укладки в 3d модели
